@@ -1,0 +1,5 @@
+
+    const cmd = require("/private/tmp/gatsby-mdx/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"p":"9988","port":51463,"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/private/tmp/gatsby-mdx","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"gatsby-mdx","version":"1.0.0","main":"index.js","author":"André de Albuquerque (https://itstheandre.com)","license":"MIT","dependencies":{"@mdx-js/mdx":"^1.6.18","@mdx-js/react":"^1.6.18","babel-plugin-styled-components":"^1.11.1","gatsby":"^2.24.73","gatsby-plugin-mdx":"^1.2.46","gatsby-plugin-styled-components":"^3.3.14","gatsby-source-filesystem":"^2.3.34","prism-react-renderer":"^1.1.1","react":"^16.13.1","react-dom":"^16.13.1","styled-components":"^5.2.0"},"scripts":{"dev":"gatsby develop -p 9988"}},"report":{"errorMap":{}},"useYarn":true,"proxyPort":9988,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
